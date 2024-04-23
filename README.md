@@ -38,8 +38,8 @@ python candymachine.py --help
 This project was developed by:
 
 - Your Name
-  - GitHub: [github.com/iyyime](https://github.com/iyyime)
-  - Email: iyyime@gmail.com
+  - GitHub: [github.com/zaudmalik1222](https://github.com/zaudmalik1222)
+  - Email: mosafwan213@gmail.com
 
 ## License
 
